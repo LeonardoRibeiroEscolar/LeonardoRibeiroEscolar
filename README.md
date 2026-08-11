@@ -6,3 +6,4 @@
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LeonardoRibeiroEscolar&layout=donut&theme=dracula" alt="Minhas Linguagens" />
 </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
